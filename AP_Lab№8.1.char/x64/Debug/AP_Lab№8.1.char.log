@@ -1,0 +1,4 @@
+﻿  AP_Lab№8.1.char.cpp
+C:\Users\User\source\repos\AP_Lab№8.1.char\AP_Lab№8.1.char\AP_Lab№8.1.char.cpp(11,21): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\AP_Lab№8.1.char\AP_Lab№8.1.char\AP_Lab№8.1.char.cpp(24,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  AP_Lab№8.1.char.vcxproj -> C:\Users\User\source\repos\AP_Lab№8.1.char\x64\Debug\AP_Lab№8.1.char.exe
